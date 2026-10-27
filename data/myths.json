@@ -1,0 +1,1701 @@
+[
+  {
+    "id": 1,
+    "claim": "Antibiotics can cure viral infections.",
+    "verdict": "FALSE",
+    "reason": "Antibiotics treat certain bacterial infections, not viral infections. Use them only as advised by a qualified professional.",
+    "keywords": [
+      "antibiotics",
+      "cure",
+      "viral",
+      "infection",
+      "virus"
+    ],
+    "phrases": [
+      "Antibiotics can cure viral infections."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO antimicrobial resistance",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      },
+      {
+        "title": "CDC antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 2,
+    "claim": "Antibiotics should be used only when prescribed or recommended by a qualified professional.",
+    "verdict": "TRUE",
+    "reason": "Appropriate antibiotic use helps avoid unnecessary exposure and antimicrobial resistance.",
+    "keywords": [
+      "antibiotics",
+      "prescribed",
+      "professional",
+      "resistance",
+      "bacteria"
+    ],
+    "phrases": [
+      "Antibiotics should be used only when prescribed or recommended by a qualified professional."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO antimicrobial resistance",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      },
+      {
+        "title": "CDC antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 3,
+    "claim": "Stopping antibiotics early is always safe once symptoms improve.",
+    "verdict": "FALSE",
+    "reason": "Do not change an antibiotic course without guidance from the prescribing clinician; follow the instructions you were given.",
+    "keywords": [
+      "stopping",
+      "antibiotics",
+      "early",
+      "symptoms",
+      "course"
+    ],
+    "phrases": [
+      "Stopping antibiotics early is always safe once symptoms improve."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO antimicrobial resistance",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      },
+      {
+        "title": "CDC antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 4,
+    "claim": "Antibiotic resistance can make infections harder to treat.",
+    "verdict": "TRUE",
+    "reason": "Resistance can reduce the effectiveness of medicines used to treat bacterial infections.",
+    "keywords": [
+      "antibiotic",
+      "resistance",
+      "infections",
+      "treat",
+      "bacterial"
+    ],
+    "phrases": [
+      "Antibiotic resistance can make infections harder to treat."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO antimicrobial resistance",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      },
+      {
+        "title": "CDC antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 5,
+    "claim": "Handwashing with soap helps reduce the spread of infections.",
+    "verdict": "TRUE",
+    "reason": "Proper handwashing removes germs and helps reduce transmission of many infections.",
+    "keywords": [
+      "handwashing",
+      "soap",
+      "reduce",
+      "spread",
+      "infection"
+    ],
+    "phrases": [
+      "Handwashing with soap helps reduce the spread of infections."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO washing hands",
+        "url": "https://www.who.int/tools/your-life-your-health/other-health-topics/health-and-the-environment/washing-hands"
+      },
+      {
+        "title": "WHO hand hygiene guidelines",
+        "url": "https://www.who.int/publications/i/item/9789240116559"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 6,
+    "claim": "Rinsing hands quickly with water is always as effective as washing with soap.",
+    "verdict": "FALSE",
+    "reason": "Soap and proper technique help remove dirt and germs more effectively than a quick rinse alone.",
+    "keywords": [
+      "rinsing",
+      "hands",
+      "water",
+      "effective",
+      "soap"
+    ],
+    "phrases": [
+      "Rinsing hands quickly with water is always as effective as washing with soap."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO washing hands",
+        "url": "https://www.who.int/tools/your-life-your-health/other-health-topics/health-and-the-environment/washing-hands"
+      },
+      {
+        "title": "WHO hand hygiene guidelines",
+        "url": "https://www.who.int/publications/i/item/9789240116559"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 7,
+    "claim": "Vaccines help protect against specific infectious diseases.",
+    "verdict": "TRUE",
+    "reason": "Vaccines train the immune system to recognize targeted pathogens and help prevent or reduce disease.",
+    "keywords": [
+      "vaccines",
+      "protect",
+      "infectious",
+      "diseases",
+      "immunity"
+    ],
+    "phrases": [
+      "Vaccines help protect against specific infectious diseases."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO vaccines and immunization",
+        "url": "https://www.who.int/health-topics/vaccines-and-immunization"
+      },
+      {
+        "title": "CDC vaccines",
+        "url": "https://www.cdc.gov/vaccines/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 8,
+    "claim": "All vaccines cause the disease they are designed to prevent.",
+    "verdict": "FALSE",
+    "reason": "Vaccines do not all work the same way; approved vaccines are designed to train immune protection, not simply cause the disease.",
+    "keywords": [
+      "vaccines",
+      "cause",
+      "disease",
+      "prevent",
+      "immunity"
+    ],
+    "phrases": [
+      "All vaccines cause the disease they are designed to prevent."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO vaccines and immunization",
+        "url": "https://www.who.int/health-topics/vaccines-and-immunization"
+      },
+      {
+        "title": "CDC vaccines",
+        "url": "https://www.cdc.gov/vaccines/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 9,
+    "claim": "Vaccines can have side effects, and serious reactions are uncommon.",
+    "verdict": "TRUE",
+    "reason": "Some temporary side effects can occur; serious reactions are rare and should be assessed by health professionals.",
+    "keywords": [
+      "vaccines",
+      "side",
+      "effects",
+      "serious",
+      "reactions"
+    ],
+    "phrases": [
+      "Vaccines can have side effects, and serious reactions are uncommon."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO vaccines and immunization",
+        "url": "https://www.who.int/health-topics/vaccines-and-immunization"
+      },
+      {
+        "title": "CDC vaccines",
+        "url": "https://www.cdc.gov/vaccines/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 10,
+    "claim": "A vaccine is guaranteed to prevent every infection in every person.",
+    "verdict": "FALSE",
+    "reason": "Protection varies by vaccine, disease, and person; no vaccine guarantees complete protection for everyone.",
+    "keywords": [
+      "vaccine",
+      "guaranteed",
+      "prevent",
+      "every",
+      "infection"
+    ],
+    "phrases": [
+      "A vaccine is guaranteed to prevent every infection in every person."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO vaccines and immunization",
+        "url": "https://www.who.int/health-topics/vaccines-and-immunization"
+      },
+      {
+        "title": "CDC vaccines",
+        "url": "https://www.cdc.gov/vaccines/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 11,
+    "claim": "Smoking tobacco increases the risk of serious diseases.",
+    "verdict": "TRUE",
+    "reason": "Tobacco use harms health and increases the risk of multiple serious diseases.",
+    "keywords": [
+      "smoking",
+      "tobacco",
+      "risk",
+      "serious",
+      "diseases"
+    ],
+    "phrases": [
+      "Smoking tobacco increases the risk of serious diseases."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO tobacco factsheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco"
+      },
+      {
+        "title": "CDC smoking and tobacco",
+        "url": "https://www.cdc.gov/tobacco/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 12,
+    "claim": "Second-hand tobacco smoke can harm health.",
+    "verdict": "TRUE",
+    "reason": "Exposure to second-hand smoke is harmful and can cause disease.",
+    "keywords": [
+      "second",
+      "hand",
+      "tobacco",
+      "smoke",
+      "harm"
+    ],
+    "phrases": [
+      "Second-hand tobacco smoke can harm health."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO tobacco factsheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco"
+      },
+      {
+        "title": "CDC smoking and tobacco",
+        "url": "https://www.cdc.gov/tobacco/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 13,
+    "claim": "Herbal or natural products are always safe because they are natural.",
+    "verdict": "FALSE",
+    "reason": "Natural products may cause side effects, toxicity, or interactions with medicines.",
+    "keywords": [
+      "herbal",
+      "natural",
+      "products",
+      "always",
+      "safe",
+      "side"
+    ],
+    "phrases": [
+      "Herbal or natural products are always safe because they are natural."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "title": "NHS vitamins and minerals",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 14,
+    "claim": "A balanced diet supports health.",
+    "verdict": "TRUE",
+    "reason": "A varied, balanced diet helps provide nutrients needed for health.",
+    "keywords": [
+      "balanced",
+      "diet",
+      "supports",
+      "health",
+      "nutrients"
+    ],
+    "phrases": [
+      "A balanced diet supports health."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "title": "NHS vitamins and minerals",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 15,
+    "claim": "One food can cure every disease.",
+    "verdict": "FALSE",
+    "reason": "No single food is a universal cure; illness may need evidence-based medical care.",
+    "keywords": [
+      "food",
+      "cure",
+      "every",
+      "disease",
+      "illness"
+    ],
+    "phrases": [
+      "One food can cure every disease."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "title": "NHS vitamins and minerals",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 16,
+    "claim": "Eating fruit and vegetables can be part of a healthy diet.",
+    "verdict": "TRUE",
+    "reason": "Fruit and vegetables provide useful nutrients and are part of a healthy dietary pattern.",
+    "keywords": [
+      "fruit",
+      "vegetables",
+      "healthy",
+      "diet",
+      "nutrients"
+    ],
+    "phrases": [
+      "Eating fruit and vegetables can be part of a healthy diet."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "title": "NHS vitamins and minerals",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 17,
+    "claim": "Skipping all meals is a safe and effective way for everyone to lose weight.",
+    "verdict": "FALSE",
+    "reason": "Dietary needs differ; extreme restriction can be harmful and weight management should be safe and sustainable.",
+    "keywords": [
+      "skipping",
+      "meals",
+      "safe",
+      "effective",
+      "weight",
+      "lose"
+    ],
+    "phrases": [
+      "Skipping all meals is a safe and effective way for everyone to lose weight."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "title": "NHS vitamins and minerals",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 18,
+    "claim": "Everyone needs exactly eight glasses of water every day.",
+    "verdict": "UNVERIFIED",
+    "reason": "Fluid needs vary with age, activity, climate, diet, and health; a fixed amount is not right for everyone.",
+    "keywords": [
+      "everyone",
+      "exactly",
+      "eight",
+      "glasses",
+      "water",
+      "every",
+      "day"
+    ],
+    "phrases": [
+      "Everyone needs exactly eight glasses of water every day."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "title": "NHS vitamins and minerals",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 19,
+    "claim": "Drinking water supports normal body functions.",
+    "verdict": "TRUE",
+    "reason": "Water is essential for normal body functions, though individual fluid needs vary.",
+    "keywords": [
+      "drinking",
+      "water",
+      "supports",
+      "body",
+      "functions"
+    ],
+    "phrases": [
+      "Drinking water supports normal body functions."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "title": "NHS vitamins and minerals",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 20,
+    "claim": "More vitamins are always better for health.",
+    "verdict": "FALSE",
+    "reason": "Excessive amounts of some vitamins can be harmful; supplements should be used appropriately.",
+    "keywords": [
+      "vitamins",
+      "more",
+      "always",
+      "better",
+      "supplements",
+      "health"
+    ],
+    "phrases": [
+      "More vitamins are always better for health."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "title": "NHS vitamins and minerals",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 21,
+    "claim": "Sunlight can help the body produce vitamin D.",
+    "verdict": "TRUE",
+    "reason": "Skin can produce vitamin D with UVB exposure; excessive sun exposure can damage skin.",
+    "keywords": [
+      "sunlight",
+      "body",
+      "produce",
+      "vitamin",
+      "skin"
+    ],
+    "phrases": [
+      "Sunlight can help the body produce vitamin D."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "NIH vitamin D",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminD-Consumer/"
+      },
+      {
+        "title": "NHS vitamin D",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 22,
+    "claim": "Everyone should take vitamin supplements without checking their needs.",
+    "verdict": "FALSE",
+    "reason": "Supplements are not necessary for everyone and can interact with medicines or be harmful in excess.",
+    "keywords": [
+      "everyone",
+      "vitamin",
+      "supplements",
+      "without",
+      "needs"
+    ],
+    "phrases": [
+      "Everyone should take vitamin supplements without checking their needs."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "title": "NHS vitamins and minerals",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 23,
+    "claim": "Regular physical activity can support overall health.",
+    "verdict": "TRUE",
+    "reason": "Appropriate physical activity supports physical and mental health.",
+    "keywords": [
+      "regular",
+      "physical",
+      "activity",
+      "support",
+      "overall",
+      "health"
+    ],
+    "phrases": [
+      "Regular physical activity can support overall health."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO physical activity",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      },
+      {
+        "title": "CDC physical activity benefits",
+        "url": "https://www.cdc.gov/physical-activity-basics/benefits/index.html"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 24,
+    "claim": "Exercise is beneficial only if it is very intense.",
+    "verdict": "FALSE",
+    "reason": "Many levels of activity can provide benefits; suitable activity depends on the person.",
+    "keywords": [
+      "exercise",
+      "beneficial",
+      "only",
+      "intense",
+      "activity"
+    ],
+    "phrases": [
+      "Exercise is beneficial only if it is very intense."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO physical activity",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+      },
+      {
+        "title": "CDC physical activity benefits",
+        "url": "https://www.cdc.gov/physical-activity-basics/benefits/index.html"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 25,
+    "claim": "Adequate sleep is important for health.",
+    "verdict": "TRUE",
+    "reason": "Sufficient sleep supports wellbeing and normal functioning; needs vary by age.",
+    "keywords": [
+      "adequate",
+      "sleep",
+      "important",
+      "health",
+      "rest"
+    ],
+    "phrases": [
+      "Adequate sleep is important for health."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "CDC sleep",
+        "url": "https://www.cdc.gov/sleep/about/index.html"
+      },
+      {
+        "title": "NHS sleep advice",
+        "url": "https://www.nhs.uk/live-well/sleep-and-tiredness/how-to-get-to-sleep/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 26,
+    "claim": "Everyone needs exactly the same number of hours of sleep.",
+    "verdict": "FALSE",
+    "reason": "Sleep needs vary by age and individual circumstances.",
+    "keywords": [
+      "everyone",
+      "same",
+      "hours",
+      "sleep",
+      "exactly"
+    ],
+    "phrases": [
+      "Everyone needs exactly the same number of hours of sleep."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "CDC sleep",
+        "url": "https://www.cdc.gov/sleep/about/index.html"
+      },
+      {
+        "title": "NHS sleep advice",
+        "url": "https://www.nhs.uk/live-well/sleep-and-tiredness/how-to-get-to-sleep/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 27,
+    "claim": "Wearing a well-fitting mask can reduce exposure to some respiratory particles.",
+    "verdict": "TRUE",
+    "reason": "Masks can reduce exposure in some situations; protection depends on type, fit, and setting.",
+    "keywords": [
+      "mask",
+      "well",
+      "fitting",
+      "reduce",
+      "exposure",
+      "respiratory",
+      "particles"
+    ],
+    "phrases": [
+      "Wearing a well-fitting mask can reduce exposure to some respiratory particles."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "CDC masks",
+        "url": "https://www.cdc.gov/respiratory-viruses/prevention/masks.html"
+      },
+      {
+        "title": "WHO public health advice",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 28,
+    "claim": "A face mask guarantees that a person cannot catch a respiratory infection.",
+    "verdict": "FALSE",
+    "reason": "Masks are one risk-reduction measure and do not guarantee complete protection.",
+    "keywords": [
+      "face",
+      "mask",
+      "guarantees",
+      "cannot",
+      "catch",
+      "respiratory",
+      "infection"
+    ],
+    "phrases": [
+      "A face mask guarantees that a person cannot catch a respiratory infection."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "CDC masks",
+        "url": "https://www.cdc.gov/respiratory-viruses/prevention/masks.html"
+      },
+      {
+        "title": "WHO public health advice",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 29,
+    "claim": "Alcohol use carries health risks.",
+    "verdict": "TRUE",
+    "reason": "Alcohol is associated with health risks, which vary by amount and pattern of use.",
+    "keywords": [
+      "alcohol",
+      "health",
+      "risks",
+      "drinking",
+      "disease"
+    ],
+    "phrases": [
+      "Alcohol use carries health risks."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO alcohol factsheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/alcohol"
+      },
+      {
+        "title": "CDC alcohol",
+        "url": "https://www.cdc.gov/alcohol/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 30,
+    "claim": "Feeling better means it is always safe to stop prescribed medicine.",
+    "verdict": "FALSE",
+    "reason": "Ask the prescribing clinician or pharmacist before changing or stopping a medicine.",
+    "keywords": [
+      "feeling",
+      "better",
+      "safe",
+      "stop",
+      "prescribed",
+      "medicine"
+    ],
+    "phrases": [
+      "Feeling better means it is always safe to stop prescribed medicine."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO antimicrobial resistance",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      },
+      {
+        "title": "CDC antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 31,
+    "claim": "All bacteria are harmful to humans.",
+    "verdict": "FALSE",
+    "reason": "Many bacteria are harmless or beneficial; some can cause disease.",
+    "keywords": [
+      "bacteria",
+      "harmful",
+      "humans",
+      "beneficial",
+      "disease"
+    ],
+    "phrases": [
+      "All bacteria are harmful to humans."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "title": "NHS vitamins and minerals",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 32,
+    "claim": "All fevers require antibiotics.",
+    "verdict": "FALSE",
+    "reason": "Fever has many causes, including viral infections; a health professional determines appropriate care.",
+    "keywords": [
+      "fever",
+      "require",
+      "antibiotics",
+      "causes",
+      "viral"
+    ],
+    "phrases": [
+      "All fevers require antibiotics."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO antimicrobial resistance",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      },
+      {
+        "title": "CDC antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 33,
+    "claim": "A high fever or severe symptoms may need medical assessment.",
+    "verdict": "TRUE",
+    "reason": "Severe, persistent, or concerning symptoms should be assessed by an appropriate healthcare professional.",
+    "keywords": [
+      "high",
+      "fever",
+      "severe",
+      "symptoms",
+      "medical",
+      "assessment"
+    ],
+    "phrases": [
+      "A high fever or severe symptoms may need medical assessment."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "CDC heat and health",
+        "url": "https://www.cdc.gov/heat-health/"
+      },
+      {
+        "title": "WHO climate change and health",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 34,
+    "claim": "Every headache is a sign of a brain tumour.",
+    "verdict": "FALSE",
+    "reason": "Headaches have many causes; unusual, severe, sudden, or persistent symptoms need medical assessment.",
+    "keywords": [
+      "headache",
+      "brain",
+      "tumour",
+      "sign",
+      "pain"
+    ],
+    "phrases": [
+      "Every headache is a sign of a brain tumour."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO mental health",
+        "url": "https://www.who.int/health-topics/mental-health"
+      },
+      {
+        "title": "NHS mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 35,
+    "claim": "A health message shared widely online is automatically reliable.",
+    "verdict": "FALSE",
+    "reason": "Popularity does not prove accuracy; check trustworthy sources before acting on health claims.",
+    "keywords": [
+      "health",
+      "message",
+      "shared",
+      "online",
+      "reliable"
+    ],
+    "phrases": [
+      "A health message shared widely online is automatically reliable."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO mental health",
+        "url": "https://www.who.int/health-topics/mental-health"
+      },
+      {
+        "title": "NHS mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 36,
+    "claim": "Stress can affect a person’s wellbeing.",
+    "verdict": "TRUE",
+    "reason": "Stress can affect mental and physical wellbeing; support may help.",
+    "keywords": [
+      "stress",
+      "affect",
+      "wellbeing",
+      "mental",
+      "physical"
+    ],
+    "phrases": [
+      "Stress can affect a person’s wellbeing."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO mental health",
+        "url": "https://www.who.int/health-topics/mental-health"
+      },
+      {
+        "title": "NHS mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 37,
+    "claim": "Mental health conditions are a sign of personal weakness.",
+    "verdict": "FALSE",
+    "reason": "Mental health conditions are health conditions, not evidence of personal weakness.",
+    "keywords": [
+      "mental",
+      "health",
+      "conditions",
+      "weakness",
+      "personal"
+    ],
+    "phrases": [
+      "Mental health conditions are a sign of personal weakness."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO mental health",
+        "url": "https://www.who.int/health-topics/mental-health"
+      },
+      {
+        "title": "NHS mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 38,
+    "claim": "Brushing teeth regularly helps maintain oral health.",
+    "verdict": "TRUE",
+    "reason": "Regular toothbrushing with fluoride toothpaste helps prevent tooth decay and gum problems.",
+    "keywords": [
+      "brushing",
+      "teeth",
+      "regularly",
+      "oral",
+      "health"
+    ],
+    "phrases": [
+      "Brushing teeth regularly helps maintain oral health."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "NHS tooth decay",
+        "url": "https://www.nhs.uk/conditions/tooth-decay/"
+      },
+      {
+        "title": "CDC oral health",
+        "url": "https://www.cdc.gov/oral-health/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 39,
+    "claim": "Bleeding gums should always be ignored if there is no pain.",
+    "verdict": "FALSE",
+    "reason": "Bleeding gums can signal gum disease; seek dental advice if it persists or concerns you.",
+    "keywords": [
+      "bleeding",
+      "gums",
+      "ignored",
+      "pain",
+      "dental"
+    ],
+    "phrases": [
+      "Bleeding gums should always be ignored if there is no pain."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "NHS tooth decay",
+        "url": "https://www.nhs.uk/conditions/tooth-decay/"
+      },
+      {
+        "title": "CDC oral health",
+        "url": "https://www.cdc.gov/oral-health/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 40,
+    "claim": "Food can become unsafe if handled or stored improperly.",
+    "verdict": "TRUE",
+    "reason": "Safe food handling and storage help reduce foodborne illness risk.",
+    "keywords": [
+      "food",
+      "unsafe",
+      "handled",
+      "stored",
+      "improperly"
+    ],
+    "phrases": [
+      "Food can become unsafe if handled or stored improperly."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO food safety",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/food-safety"
+      },
+      {
+        "title": "CDC food safety",
+        "url": "https://www.cdc.gov/food-safety/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 41,
+    "claim": "Food that smells normal is guaranteed to be safe.",
+    "verdict": "FALSE",
+    "reason": "Some harmful germs do not change food smell or appearance; follow food-safety guidance.",
+    "keywords": [
+      "food",
+      "smells",
+      "normal",
+      "guaranteed",
+      "safe"
+    ],
+    "phrases": [
+      "Food that smells normal is guaranteed to be safe."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO food safety",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/food-safety"
+      },
+      {
+        "title": "CDC food safety",
+        "url": "https://www.cdc.gov/food-safety/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 42,
+    "claim": "Clean drinking water is important for health.",
+    "verdict": "TRUE",
+    "reason": "Safe water is essential for drinking and helps prevent waterborne disease.",
+    "keywords": [
+      "clean",
+      "drinking",
+      "water",
+      "important",
+      "health"
+    ],
+    "phrases": [
+      "Clean drinking water is important for health."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO food safety",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/food-safety"
+      },
+      {
+        "title": "CDC food safety",
+        "url": "https://www.cdc.gov/food-safety/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 43,
+    "claim": "Using another person’s prescription medicine is safe if symptoms look similar.",
+    "verdict": "FALSE",
+    "reason": "Medicines and doses depend on individual factors; do not use another person’s prescription.",
+    "keywords": [
+      "another",
+      "person",
+      "prescription",
+      "medicine",
+      "symptoms",
+      "similar"
+    ],
+    "phrases": [
+      "Using another person’s prescription medicine is safe if symptoms look similar."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO antimicrobial resistance",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      },
+      {
+        "title": "CDC antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 44,
+    "claim": "Taking more than the recommended dose can be dangerous.",
+    "verdict": "TRUE",
+    "reason": "Taking too much medicine can cause harmful effects or poisoning.",
+    "keywords": [
+      "taking",
+      "more",
+      "recommended",
+      "dose",
+      "dangerous",
+      "medicine"
+    ],
+    "phrases": [
+      "Taking more than the recommended dose can be dangerous."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO antimicrobial resistance",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      },
+      {
+        "title": "CDC antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 45,
+    "claim": "A medicine labelled natural cannot interact with other medicines.",
+    "verdict": "FALSE",
+    "reason": "Herbal and natural products can interact with medicines and may cause harm.",
+    "keywords": [
+      "natural",
+      "interact",
+      "medicines",
+      "herbal",
+      "products"
+    ],
+    "phrases": [
+      "A medicine labelled natural cannot interact with other medicines."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "title": "NHS vitamins and minerals",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 46,
+    "claim": "Mosquito bites can transmit some infectious diseases.",
+    "verdict": "TRUE",
+    "reason": "Some mosquitoes transmit pathogens that cause diseases such as dengue and malaria.",
+    "keywords": [
+      "mosquito",
+      "bites",
+      "transmit",
+      "infectious",
+      "diseases"
+    ],
+    "phrases": [
+      "Mosquito bites can transmit some infectious diseases."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "CDC heat and health",
+        "url": "https://www.cdc.gov/heat-health/"
+      },
+      {
+        "title": "WHO climate change and health",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 47,
+    "claim": "Dengue can be diagnosed reliably by guessing from symptoms alone.",
+    "verdict": "FALSE",
+    "reason": "Symptoms overlap with other illnesses; diagnosis and care require appropriate clinical assessment and tests when indicated.",
+    "keywords": [
+      "dengue",
+      "diagnosed",
+      "symptoms",
+      "alone",
+      "tests"
+    ],
+    "phrases": [
+      "Dengue can be diagnosed reliably by guessing from symptoms alone."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "CDC heat and health",
+        "url": "https://www.cdc.gov/heat-health/"
+      },
+      {
+        "title": "WHO climate change and health",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 48,
+    "claim": "Covering coughs and sneezes can help reduce the spread of respiratory germs.",
+    "verdict": "TRUE",
+    "reason": "Respiratory etiquette, hand hygiene, and other measures can reduce spread of infectious particles.",
+    "keywords": [
+      "covering",
+      "coughs",
+      "sneezes",
+      "reduce",
+      "spread",
+      "respiratory"
+    ],
+    "phrases": [
+      "Covering coughs and sneezes can help reduce the spread of respiratory germs."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO washing hands",
+        "url": "https://www.who.int/tools/your-life-your-health/other-health-topics/health-and-the-environment/washing-hands"
+      },
+      {
+        "title": "WHO hand hygiene guidelines",
+        "url": "https://www.who.int/publications/i/item/9789240116559"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 49,
+    "claim": "Sharing personal drinking bottles cannot spread any germs.",
+    "verdict": "FALSE",
+    "reason": "Sharing items that contact the mouth may spread some germs; avoid sharing when ill and practise hygiene.",
+    "keywords": [
+      "sharing",
+      "personal",
+      "drinking",
+      "bottles",
+      "spread",
+      "germs"
+    ],
+    "phrases": [
+      "Sharing personal drinking bottles cannot spread any germs."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO washing hands",
+        "url": "https://www.who.int/tools/your-life-your-health/other-health-topics/health-and-the-environment/washing-hands"
+      },
+      {
+        "title": "WHO hand hygiene guidelines",
+        "url": "https://www.who.int/publications/i/item/9789240116559"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 50,
+    "claim": "High blood pressure can exist without obvious symptoms.",
+    "verdict": "TRUE",
+    "reason": "High blood pressure often has no noticeable symptoms and is detected by measurement.",
+    "keywords": [
+      "high",
+      "blood",
+      "pressure",
+      "without",
+      "symptoms"
+    ],
+    "phrases": [
+      "High blood pressure can exist without obvious symptoms."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO cardiovascular diseases",
+        "url": "https://www.who.int/health-topics/cardiovascular-diseases"
+      },
+      {
+        "title": "CDC heart disease",
+        "url": "https://www.cdc.gov/heart-disease/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 51,
+    "claim": "Chest pain should always be ignored if a person is young.",
+    "verdict": "FALSE",
+    "reason": "Chest pain can have serious causes at any age; sudden or severe pain or breathing difficulty needs urgent medical help.",
+    "keywords": [
+      "chest",
+      "pain",
+      "ignored",
+      "young",
+      "breathing"
+    ],
+    "phrases": [
+      "Chest pain should always be ignored if a person is young."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO cardiovascular diseases",
+        "url": "https://www.who.int/health-topics/cardiovascular-diseases"
+      },
+      {
+        "title": "CDC heart disease",
+        "url": "https://www.cdc.gov/heart-disease/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 52,
+    "claim": "Regularly checking blood pressure can help identify high blood pressure.",
+    "verdict": "TRUE",
+    "reason": "Measurement is needed to identify high blood pressure because symptoms may be absent.",
+    "keywords": [
+      "checking",
+      "blood",
+      "pressure",
+      "identify",
+      "high"
+    ],
+    "phrases": [
+      "Regularly checking blood pressure can help identify high blood pressure."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO cardiovascular diseases",
+        "url": "https://www.who.int/health-topics/cardiovascular-diseases"
+      },
+      {
+        "title": "CDC heart disease",
+        "url": "https://www.cdc.gov/heart-disease/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 53,
+    "claim": "Diabetes is caused only by eating sugar.",
+    "verdict": "FALSE",
+    "reason": "Diabetes has multiple contributing factors, which vary by type; it is not caused only by eating sugar.",
+    "keywords": [
+      "diabetes",
+      "caused",
+      "only",
+      "eating",
+      "sugar"
+    ],
+    "phrases": [
+      "Diabetes is caused only by eating sugar."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "title": "NHS vitamins and minerals",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 54,
+    "claim": "People with diabetes should change their medicine dose based on social media advice.",
+    "verdict": "FALSE",
+    "reason": "Diabetes treatment changes should be discussed with the treating healthcare professional.",
+    "keywords": [
+      "diabetes",
+      "medicine",
+      "dose",
+      "social",
+      "media",
+      "advice"
+    ],
+    "phrases": [
+      "People with diabetes should change their medicine dose based on social media advice."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO antimicrobial resistance",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+      },
+      {
+        "title": "CDC antibiotic use",
+        "url": "https://www.cdc.gov/antibiotic-use/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 55,
+    "claim": "A person can always diagnose a nutritional deficiency from symptoms alone.",
+    "verdict": "FALSE",
+    "reason": "Symptoms can have many causes; assessment and tests may be needed.",
+    "keywords": [
+      "diagnose",
+      "nutritional",
+      "deficiency",
+      "symptoms",
+      "alone"
+    ],
+    "phrases": [
+      "A person can always diagnose a nutritional deficiency from symptoms alone."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      },
+      {
+        "title": "NHS vitamins and minerals",
+        "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 56,
+    "claim": "Cleaning and disinfecting are exactly the same process.",
+    "verdict": "FALSE",
+    "reason": "Cleaning removes dirt and some germs; disinfection uses products to kill germs on surfaces.",
+    "keywords": [
+      "cleaning",
+      "disinfecting",
+      "same",
+      "process",
+      "germs"
+    ],
+    "phrases": [
+      "Cleaning and disinfecting are exactly the same process."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO washing hands",
+        "url": "https://www.who.int/tools/your-life-your-health/other-health-topics/health-and-the-environment/washing-hands"
+      },
+      {
+        "title": "WHO hand hygiene guidelines",
+        "url": "https://www.who.int/publications/i/item/9789240116559"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 57,
+    "claim": "Hand sanitiser can be useful when soap and water are not available.",
+    "verdict": "TRUE",
+    "reason": "An appropriate alcohol-based hand sanitiser can be useful in many situations, though handwashing is preferred when hands are visibly dirty.",
+    "keywords": [
+      "hand",
+      "sanitiser",
+      "soap",
+      "water",
+      "available"
+    ],
+    "phrases": [
+      "Hand sanitiser can be useful when soap and water are not available."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO washing hands",
+        "url": "https://www.who.int/tools/your-life-your-health/other-health-topics/health-and-the-environment/washing-hands"
+      },
+      {
+        "title": "WHO hand hygiene guidelines",
+        "url": "https://www.who.int/publications/i/item/9789240116559"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 58,
+    "claim": "A single home remedy is guaranteed to cure every cough.",
+    "verdict": "FALSE",
+    "reason": "Coughs have different causes; no single home remedy is a guaranteed cure. Persistent or severe symptoms need medical advice.",
+    "keywords": [
+      "home",
+      "remedy",
+      "guaranteed",
+      "cure",
+      "every",
+      "cough"
+    ],
+    "phrases": [
+      "A single home remedy is guaranteed to cure every cough."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO mental health",
+        "url": "https://www.who.int/health-topics/mental-health"
+      },
+      {
+        "title": "NHS mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 59,
+    "claim": "Health claims should be checked against reliable sources before sharing.",
+    "verdict": "TRUE",
+    "reason": "Checking credible, relevant sources helps reduce the spread of health misinformation.",
+    "keywords": [
+      "health",
+      "claims",
+      "checked",
+      "reliable",
+      "sources",
+      "sharing"
+    ],
+    "phrases": [
+      "Health claims should be checked against reliable sources before sharing."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO mental health",
+        "url": "https://www.who.int/health-topics/mental-health"
+      },
+      {
+        "title": "NHS mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  },
+  {
+    "id": 60,
+    "claim": "If two health sources disagree, the app should guess which verdict is correct.",
+    "verdict": "FALSE",
+    "reason": "When reliable evidence is unclear or conflicting, the safer response is UNVERIFIED and human review.",
+    "keywords": [
+      "sources",
+      "disagree",
+      "guess",
+      "verdict",
+      "correct"
+    ],
+    "phrases": [
+      "If two health sources disagree, the app should guess which verdict is correct."
+    ],
+    "minimum_keyword_matches": 3,
+    "sources": [
+      {
+        "title": "WHO mental health",
+        "url": "https://www.who.int/health-topics/mental-health"
+      },
+      {
+        "title": "NHS mental health",
+        "url": "https://www.nhs.uk/mental-health/"
+      }
+    ],
+    "review_status": "needs_human_review"
+  }
+]
